@@ -10,3 +10,4 @@ Nele o usuário cria suas tarefas, armazena no Local Storage e após realizadas 
 - Javascript
 
 Link para o site:
+https://minhastarefass.vercel.app/
